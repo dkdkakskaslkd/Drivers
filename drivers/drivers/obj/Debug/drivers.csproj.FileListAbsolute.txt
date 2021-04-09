@@ -1,0 +1,14 @@
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.csprojAssemblyReference.cache
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.Driver.resources
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.DriversLicense.resources
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.Properties.Resources.resources
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.csproj.GenerateResource.cache
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.csproj.CoreCompileInputs.cache
+C:\Users\ladyt\source\repos\drivers\drivers\bin\Debug\Database1.mdf
+C:\Users\ladyt\source\repos\drivers\drivers\bin\Debug\Database1_log.ldf
+C:\Users\ladyt\source\repos\drivers\drivers\bin\Debug\drivers.exe.config
+C:\Users\ladyt\source\repos\drivers\drivers\bin\Debug\drivers.exe
+C:\Users\ladyt\source\repos\drivers\drivers\bin\Debug\drivers.pdb
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.exe
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.pdb
+C:\Users\ladyt\source\repos\drivers\drivers\obj\Debug\drivers.Authorization.resources

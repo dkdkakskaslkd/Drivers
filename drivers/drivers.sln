@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drivers", "drivers\drivers.csproj", "{2E11873B-2110-4BB7-A185-35C2EC586CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E11873B-2110-4BB7-A185-35C2EC586CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E11873B-2110-4BB7-A185-35C2EC586CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E11873B-2110-4BB7-A185-35C2EC586CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E11873B-2110-4BB7-A185-35C2EC586CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1A8D04-50EB-4338-98EC-9E471F11DE69}
+	EndGlobalSection
+EndGlobal
